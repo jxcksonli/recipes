@@ -1,2 +1,3 @@
 # recipes
-Using HTML, creating a basic recipe website
+This simple project will be initially done HTML, creating a basic recipe website
+
